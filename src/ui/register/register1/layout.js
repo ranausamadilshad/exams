@@ -22,7 +22,10 @@ const RegisterScreen1 = () => {
                   <div className="bg-light card-header">
                     <ul className="justify-content-center nav">
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold done cursor-pointer nav-link">
+                        <a
+                          className="font-weight-semi-bold done cursor-pointer nav-link"
+                          href="jss"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg
@@ -48,7 +51,10 @@ const RegisterScreen1 = () => {
                         </a>
                       </li>
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold active nav-link">
+                        <a
+                          className="font-weight-semi-bold active nav-link"
+                          href="jss"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg
@@ -74,7 +80,10 @@ const RegisterScreen1 = () => {
                         </a>
                       </li>
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold nav-link">
+                        <a
+                          className="font-weight-semi-bold nav-link"
+                          href="jss"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg

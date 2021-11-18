@@ -14,7 +14,7 @@ const ProgressScreen = () => {
               <div class="progress_single_box_data">
                 <div class="progress_content">
                   <figure>
-                    <img src={pic2} />
+                    <img src={pic2} alt="s" />
                   </figure>
                   <div class="progress_content_title">
                     <h4>Total Questions</h4>
@@ -41,7 +41,7 @@ const ProgressScreen = () => {
               <div class="progress_single_box_data">
                 <div class="progress_content">
                   <figure>
-                    <img src={pic2} />
+                    <img src={pic2} alt="sj" />
                   </figure>
                   <div class="progress_content_title">
                     <h4>Total Test</h4>
@@ -68,7 +68,7 @@ const ProgressScreen = () => {
               <div class="progress_single_box_data">
                 <div class="progress_content">
                   <figure>
-                    <img src={pic2} />
+                    <img src={pic2} alt="sj" />
                   </figure>
                   <div class="progress_content_title">
                     <h4>Average per</h4>
@@ -194,7 +194,7 @@ const ProgressScreen = () => {
                       Let us know and we will add it into the question bank
                     </small>
                     <div class="report_btn">
-                      <a href="#">Report</a>
+                      <a href="#1">Report</a>
                     </div>
                   </div>
 
@@ -461,7 +461,7 @@ const ProgressScreen = () => {
                       </td>
                       <td class="saved_test_action">
                         <div class="saved_test_action_main">
-                          <a class="toogle_switch">
+                          <a class="toogle_switch" href="#sb">
                             <label class="switch">
                               <input type="checkbox" />
                               <span class="slider round"></span>
@@ -472,10 +472,10 @@ const ProgressScreen = () => {
                               <span class="slider round"></span>
                             </label>
                           </a>
-                          <a>
+                          <a href="#sbs">
                             <i class="far fa-edit"></i>
                           </a>
-                          <a>
+                          <a href="#sbsb">
                             <i class="fas fa-trash"></i>
                           </a>
                         </div>
@@ -510,7 +510,7 @@ const ProgressScreen = () => {
                       </td>
                       <td class="saved_test_action">
                         <div class="saved_test_action_main">
-                          <a class="toogle_switch">
+                          <a class="toogle_switch" href="#sbs">
                             <label class="switch">
                               <input type="checkbox" />
                               <span class="slider round"></span>
@@ -521,10 +521,10 @@ const ProgressScreen = () => {
                               <span class="slider round"></span>
                             </label>
                           </a>
-                          <a>
+                          <a href="#bssb">
                             <i class="far fa-edit"></i>
                           </a>
-                          <a>
+                          <a href="#sbsb">
                             <i class="fas fa-trash"></i>
                           </a>
                         </div>
@@ -559,7 +559,7 @@ const ProgressScreen = () => {
                       </td>
                       <td class="saved_test_action">
                         <div class="saved_test_action_main">
-                          <a class="toogle_switch">
+                          <a class="toogle_switch" href="#bsbs">
                             <label class="switch">
                               <input type="checkbox" />
                               <span class="slider round"></span>
@@ -570,10 +570,10 @@ const ProgressScreen = () => {
                               <span class="slider round"></span>
                             </label>
                           </a>
-                          <a>
+                          <a href="jxmd">
                             <i class="far fa-edit"></i>
                           </a>
-                          <a>
+                          <a href="#jdjj">
                             <i class="fas fa-trash"></i>
                           </a>
                         </div>

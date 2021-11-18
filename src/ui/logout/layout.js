@@ -52,7 +52,7 @@ const LogoutScreen = () => {
                         <div className="mt-3 mb-4 mt-md-4 mb-md-5">
                           <p className="mb-0 mt-4 mt-md-5 fs--1 font-weight-semi-bold text-300">
                             Read our
-                            <a className="text-underline text-300" href="#">
+                            <a className="text-underline text-300" href="#shh">
                               terms
                             </a>{" "}
                             and{" "}
@@ -77,7 +77,10 @@ const LogoutScreen = () => {
                               <br className="d-none d-sm-block" />
                               now successfully signed out.
                             </p>
-                            <a className="mt-3 btn btn-primary btn-sm" href="#">
+                            <a
+                              className="mt-3 btn btn-primary btn-sm"
+                              href="#shhs"
+                            >
                               <svg
                                 aria-hidden="true"
                                 focusable="false"

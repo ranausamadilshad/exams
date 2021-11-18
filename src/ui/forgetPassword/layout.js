@@ -16,13 +16,13 @@ const ForgetPasswordScreen = () => {
                 <img
                   className="bg-auth-circle-shape"
                   src={top}
-                  alt=""
+                  alt="sbsb"
                   width="250"
                 />
                 <img
                   className="bg-auth-circle-shape-2"
                   src={bottom}
-                  alt=""
+                  alt="nsns"
                   width="150"
                 />
                 <div className="overflow-hidden z-index-1 card">
@@ -37,7 +37,7 @@ const ForgetPasswordScreen = () => {
                           <div className="z-index-1 position-relative">
                             <a
                               className="text-white mb-4 text-sans-serif font-weight-extra-bold fs-4 d-inline-block"
-                              href="/"
+                              href="/shhs"
                             >
                               falcon
                             </a>
@@ -51,11 +51,14 @@ const ForgetPasswordScreen = () => {
                         <div className="mt-3 mb-4 mt-md-4 mb-md-5">
                           <p className="mb-0 mt-4 mt-md-5 fs--1 font-weight-semi-bold text-300">
                             Read our
-                            <a className="text-underline text-300" href="#">
+                            <a className="text-underline text-300" href="#shhs">
                               terms
                             </a>{" "}
                             and{" "}
-                            <a className="text-underline text-300" href="#!">
+                            <a
+                              className="text-underline text-300"
+                              href="#!sbbs"
+                            >
                               conditions{" "}
                             </a>
                           </p>

@@ -17,10 +17,10 @@ const TestSettingScreen = () => {
                   <div className="test_type_box_setting">
                     <small>Study Mode</small>
                     <div className="setting_on_of_btn">
-                      <a className="setting_info">
+                      <a className="setting_info" href="jdjd">
                         <i className="fas fa-info"></i>
                       </a>
-                      <a className="setting_toogle_btn">
+                      <a className="setting_toogle_btn" href="jdjd">
                         <label className="setting_switch">
                           <input type="checkbox" />
                           <span className="test_setting_slider test_setting_round"></span>
@@ -31,10 +31,10 @@ const TestSettingScreen = () => {
                   <div className="test_type_box_setting">
                     <small>Study Mode</small>
                     <div className="setting_on_of_btn">
-                      <a className="setting_info">
+                      <a className="setting_info" href="jdjd">
                         <i className="fas fa-info"></i>
                       </a>
-                      <a className="setting_toogle_btn">
+                      <a className="setting_toogle_btn" href="jdjd">
                         <label className="setting_switch">
                           <input type="checkbox" />
                           <span className="test_setting_slider test_setting_round"></span>
@@ -59,10 +59,10 @@ const TestSettingScreen = () => {
                     <div className="test_type_box_setting">
                       <small>Previously unseen</small>
                       <div className="setting_on_of_btn">
-                        <a className="setting_info">
+                        <a className="setting_info" href="jdjd">
                           <i className="fas fa-info"></i>
                         </a>
-                        <a className="setting_toogle_btn">
+                        <a className="setting_toogle_btn" href="jdjd">
                           <label className="setting_switch">
                             <input type="checkbox" />
                             <span className="test_setting_slider test_setting_round"></span>
@@ -73,10 +73,10 @@ const TestSettingScreen = () => {
                     <div className="test_type_box_setting">
                       <small>Follow my question flags</small>
                       <div className="setting_on_of_btn">
-                        <a className="setting_info">
+                        <a className="setting_info" href="jdjd">
                           <i className="fas fa-info"></i>
                         </a>
-                        <a className="setting_toogle_btn">
+                        <a className="setting_toogle_btn" href="jdjd">
                           <label className="setting_switch">
                             <input type="checkbox" />
                             <span className="test_setting_slider test_setting_round"></span>
@@ -87,10 +87,10 @@ const TestSettingScreen = () => {
                     <div className="test_type_box_setting">
                       <small>Incorrectly answered</small>
                       <div className="setting_on_of_btn">
-                        <a className="setting_info">
+                        <a className="setting_info" href="jdjd">
                           <i className="fas fa-info"></i>
                         </a>
-                        <a className="setting_toogle_btn">
+                        <a className="setting_toogle_btn" href="jdjd">
                           <label className="setting_switch">
                             <input type="checkbox" />
                             <span className="test_setting_slider test_setting_round"></span>
@@ -101,10 +101,10 @@ const TestSettingScreen = () => {
                     <div className="test_type_box_setting">
                       <small>Correct answers only</small>
                       <div className="setting_on_of_btn">
-                        <a className="setting_info">
+                        <a className="setting_info" href="jdjd">
                           <i className="fas fa-info"></i>
                         </a>
-                        <a className="setting_toogle_btn">
+                        <a className="setting_toogle_btn" href="jdjd">
                           <label className="setting_switch">
                             <input type="checkbox" />
                             <span className="test_setting_slider test_setting_round"></span>
@@ -115,10 +115,10 @@ const TestSettingScreen = () => {
                     <div className="test_type_box_setting">
                       <small>Marked “for review”</small>
                       <div className="setting_on_of_btn">
-                        <a className="setting_info">
+                        <a className="setting_info" href="jdjd">
                           <i className="fas fa-info"></i>
                         </a>
-                        <a className="setting_toogle_btn">
+                        <a className="setting_toogle_btn" href="jdjd">
                           <label className="setting_switch">
                             <input type="checkbox" />
                             <span className="test_setting_slider test_setting_round"></span>
@@ -188,6 +188,7 @@ const TestSettingScreen = () => {
                     >
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
@@ -260,6 +261,7 @@ const TestSettingScreen = () => {
 
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
@@ -332,6 +334,7 @@ const TestSettingScreen = () => {
 
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
@@ -382,6 +385,7 @@ const TestSettingScreen = () => {
 
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
@@ -432,6 +436,7 @@ const TestSettingScreen = () => {
 
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"
@@ -482,6 +487,7 @@ const TestSettingScreen = () => {
 
                       <div className="accordion-item area_and_subarea_child">
                         <a
+                          href="jdjd"
                           className="setting_check_box accordion-button collapsed"
                           type="button"
                           data-bs-toggle="collapse"

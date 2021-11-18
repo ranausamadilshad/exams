@@ -8,13 +8,13 @@ import Logout from "./app/logout";
 import Question from "./app/question";
 import Register from "./app/register";
 import TestSetting from "./app/testSetting";
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-  Routes,
-} from "react-router-dom";
+// import {
+//   BrowserRouter as Router,
+//   Switch,
+//   Route,
+//   Link,
+//   Routes,
+// } from "react-router-dom";
 import Register1 from "./app/register/register1";
 import Register2 from "./app/register/register2";
 function App() {

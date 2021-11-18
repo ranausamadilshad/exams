@@ -12,7 +12,7 @@ const HeaderScreen = () => {
             <div class="responsive_nav_bar_main">
               <div class="company_logo">
                 {" "}
-                <img src={pic1} />
+                <img src={pic1} alt="osls" />
               </div>
               <div class="hamburger_btn">
                 <button

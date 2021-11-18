@@ -21,7 +21,10 @@ const RegisterScreen = () => {
                   <div className="bg-light card-header">
                     <ul className="justify-content-center nav">
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold active nav-link">
+                        <a
+                          className="font-weight-semi-bold active nav-link"
+                          href="ajj"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg
@@ -47,7 +50,10 @@ const RegisterScreen = () => {
                         </a>
                       </li>
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold nav-link">
+                        <a
+                          className="font-weight-semi-bold nav-link"
+                          href="ajj"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg
@@ -73,7 +79,10 @@ const RegisterScreen = () => {
                         </a>
                       </li>
                       <li className="nav-item">
-                        <a className="font-weight-semi-bold nav-link">
+                        <a
+                          className="font-weight-semi-bold nav-link"
+                          href="ajj"
+                        >
                           <span className="nav-item-circle-parent">
                             <span className="nav-item-circle">
                               <svg
@@ -172,7 +181,7 @@ const RegisterScreen = () => {
                           for="agreeToTerms"
                         >
                           I accept the <a href="#!">terms</a> and{" "}
-                          <a href="#!"> privacy policy</a>
+                          <a href="ajj"> privacy policy</a>
                         </label>
                       </div>
                     </div>
@@ -244,4 +253,3 @@ const RegisterScreen = () => {
 };
 
 export default RegisterScreen;
-

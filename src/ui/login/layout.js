@@ -16,13 +16,13 @@ const LoginScreen = () => {
                 <img
                   className="bg-auth-circle-shape"
                   src={top}
-                  alt=""
+                  alt="nss"
                   width="250"
                 />
                 <img
                   className="bg-auth-circle-shape-2"
                   src={bottom}
-                  alt=""
+                  alt="ns"
                   width="150"
                 />
                 <div className="overflow-hidden z-index-1 card">
